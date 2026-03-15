@@ -169,7 +169,7 @@ line-height:1.6;
 
 
 /* MOBILE responsive */
-@media (max-width:425px){
+@media (max-width:620px){
 
 .container{
     width:100%;
